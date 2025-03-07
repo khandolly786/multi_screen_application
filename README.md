@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 Screenrecorder-2025-03-07-20-40-04-361.mp4
 ![Navigation Demo](https://github.com/khandolly786/multi_screen_application/blob/main/Screenrecorder-2025-03-07-20-40-04-361.mp4)
+[Watch the demo video](https://github.com/khandolly786/multi_screen_application/blob/main/demo.mp4)
